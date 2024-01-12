@@ -1,0 +1,7 @@
+@inproceedings{REPO305,
+    author = "Zhang, Lvmin and Rao, Anyi and Agrawala, Maneesh",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+    pages = "3836--3847",
+    title = "{Adding Conditional Control to Text-to-Image Diffusion Models}",
+    year = "2023"
+}
